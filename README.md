@@ -1,10 +1,16 @@
-# Hi, I'm Conan 👋
+# 嗨，我是柯南 👋 
+# Hi, I'm Conan 👋 
+# こんにちは、コナンです 👋
+
+AI Agent 产品构建者｜用 AI Agent 开发实用又有趣的平台产品、APP 与桌面应用。
 
 AI Agent Product Builder｜Building practical and playful platforms, apps, and desktop tools with AI-driven development workflows.
 
+AI Agent を活用し、実用的で面白いプラットフォーム、アプリ、デスクトップツールを開発するプロダクトビルダー。
+
 ---
 
-## 中文
+## zh_CN
 
 我是一名专注于 **AI Agent 产品化** 的开发者，擅长通过 AI Agent 编排、自动化工作流和快速工程化方式，把想法快速变成可运行、可演示、可迭代的平台产品、Web 应用、APP 与桌面应用。
 
@@ -23,7 +29,7 @@ AI Agent Product Builder｜Building practical and playful platforms, apps, and d
 
 ---
 
-## English
+## EN
 
 I am a developer focused on turning **AI Agent capabilities into real products**.
 
