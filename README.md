@@ -1,10 +1,10 @@
 # 嗨，我是柯南 👋 
-# Hi, I'm Conan 👋 
-# こんにちは、コナンです 👋
 
 AI Agent 产品构建者｜用 AI Agent 开发实用又有趣的平台产品、APP 与桌面应用。
+# Hi, I'm Conan 👋 
 
 AI Agent Product Builder｜Building practical and playful platforms, apps, and desktop tools with AI-driven development workflows.
+# こんにちは、コナンです 👋
 
 AI Agent を活用し、実用的で面白いプラットフォーム、アプリ、デスクトップツールを開発するプロダクトビルダー。
 
