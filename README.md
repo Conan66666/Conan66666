@@ -71,6 +71,6 @@ AI Agent の編成、自動化ワークフロー、迅速な開発プロセス�
 
 ---
 
-## Contact
+## 联系 / Contact / 連絡先
 
 [![Telegram](https://img.shields.io/badge/Telegram-@conan666_bot-blue?logo=telegram)](https://t.me/conan666_bot)
